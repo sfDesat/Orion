@@ -1,6 +1,9 @@
 # Orion
-Adds a new moon to Lethal Company.
+Adds a new moon to Lethal Company, good luck.
 
-This mod has just been upgraded to a new loader. If you update from v0.0.7 or lower please reinstall LethalExpansion.
+Orion made by sfDesat
+Watergate made by HolographicWings
 
-The assets used are placeholder to test the underlying systems.
+This mod is very much a work in progress.
+
+! This mod has just been updated to use a new loader. If you update from v0.0.7 or lower please reinstall LethalExpansion !
