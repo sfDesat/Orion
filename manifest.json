@@ -1,10 +1,10 @@
 {
     "name": "Orion",
-    "version_number": "0.0.3",
+    "version_number": "0.1.0",
     "website_url": "https://github.com/sfDesat/Orion",
-    "description": "(Launch the game 2x) This mod adds a new moon called Orion. This is currently under heavy development.",
+    "description": "Adds a new moon, good luck.",
     "dependencies": [
-	"HolographicWings-LethalExpansion-1.1.6"
+	"HolographicWings-LethalExpansion-1.1.7"
 	, "BepInEx-BepInExPack-5.4.2100"
     ]
 }

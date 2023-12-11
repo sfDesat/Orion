@@ -1,4 +1,6 @@
 # Orion
-Adds a new moon to Lethal Company
+Adds a new moon to Lethal Company.
 
-YOU NEED TO LAUNCH THE GAME 2x BEFORE THE MOON WORKS!!
+This mod has just been upgraded to a new loader. If you update from v0.0.7 or lower please reinstall LethalExpansion.
+
+The assets used are placeholder to test the underlying systems.
