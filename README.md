@@ -1,7 +1,8 @@
 # Orion
 Adds a new moon to Lethal Company, _good luck_.
 
-![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot_1.png "Screenshot 1")
+![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot%201.png "Screenshot%201")
+
 
 **Orion** made by sfDesat  
 **Watergate** made by HolographicWings (Included in LethalExpansion)
