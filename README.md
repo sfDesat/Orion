@@ -10,4 +10,4 @@ Reports indicate that this moon is home to an advanced civilization.
 This mod is very much a work in progress.  
 
 If you want to leave feedback please refer to my [Github Page](https://github.com/sfDesat/Orion).  
-_! This mod uses a new loader. If you update from v0.0.7 or lower please reinstall LethalExpansion !_
+_! This version uses a new loader. If you update from v0.0.7 or lower please reinstall LethalExpansion !_
