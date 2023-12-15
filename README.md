@@ -1,14 +1,15 @@
 # Orion
-Reports indicate that this moon is home to an advanced civilization.
+Reports indicate that this moon was home to an advanced civilization.  
 
 ![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot%201.png "Screenshot%201")
 
+> [!WARNING]
+> Currently a bug causes a long loading screen when landing on the moon.
 
 **Orion** made by sfDesat  
 **Watergate** made by HolographicWings (Included in LethalExpansion)
 
-This mod is very much a work in progress.  
+This mod is a work in progress.  
 
-If you want to leave feedback please refer to my [Github Page](https://github.com/sfDesat/Orion).  
-> [!WARNING]
-> _! This version uses a new loader. If you update from v0.0.7 or lower please reinstall LethalExpansion !_
+> [!NOTE]
+> _If you want to leave feedback please refer to my [Github Page](https://github.com/sfDesat/Orion)_
