@@ -4,7 +4,7 @@ Reports indicate that this moon was home to an advanced civilization. Current st
 ![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot%201.png "Screenshot%201")
 
 # Known Bugs
-- Nothing
+- The game occasionally crashes when dying
 
 _If you want to give feedback, please open a new issue on my [github page](https://github.com/sfDesat/Orion/issues)._
 
