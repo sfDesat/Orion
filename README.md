@@ -2,7 +2,7 @@
 ![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot%202.png "Screenshot%202")
 _The Church (photo from Drone-6)_
 
-## **Orion Scrap Retrieval Report**
+## **Orion Scrap Retrieval Program**
 
 **Objective:** Secure valuable scraps, focusing on the abandoned church.
 
