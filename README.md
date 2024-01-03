@@ -31,4 +31,4 @@ _If you want to give feedback, you can use my [github page](https://github.com/s
 **Check out my newest planet [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/) or download the [modpack](https://thunderstore.io/c/lethal-company/p/sfDesat/Explorations/).**
 #
 ### Want to support me? [Buy me a coffee ❤️](https://www.buymeacoffee.com/sfdesat).
-### Want to create your own moon? [Tutorials are here](https://www.buymeacoffee.com/sfdesat/posts/9064).
+### Want to create your own moon? [Tutorials are here](https://sfdesat.github.io/).
