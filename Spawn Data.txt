@@ -1,0 +1,96 @@
+*This is not a config file*
+===========================
+Indoor Entities
+----------------
+Spawn Weight:
+Snare Flea 	35
+Bunker Spider 	55
+Hoarding Bug 	25
+Bracken		30
+Thumper		35
+Hygrodere	15
+Ghost Girl	5
+Spore Lizard	12
+Nutcracker	5
+Coil-Head	20
+Jester		25
+Masked		20
+
+Indoor Entities power count: 24
+Spawn Probability Range: 4
+
+Outdoor Entities
+----------------
+Spawn Weight:
+Eyeless Dog	20
+Forest Keeper	35
+Earth Leviathan	60
+Baboon Hawk	//
+
+Outdoor Entities power count: 8
+
+Daytime Entities
+----------------
+Spawn Weight:
+Circuit Bee	10
+Manticoil	75
+Roaming Locust	30
+
+Outdoor Entities power count: 10
+Spawn Probability Range: 3
+
+===========================
+Scrap
+----------------
+Spawn Weight:
+Cog1			0
+EnginePart1		0
+FishTestProp		10
+MetalSheet		15
+FlashLaserPointer	22
+BigBolt			17
+BottleBin 		15
+Ring 			8
+SteeringWheel 		11
+MoldPan 		5
+EggBeater 		10
+PickleJar 		15
+DustPan 		22
+Airhorn 		4
+ClownHorn 		5
+CashRegister 		9
+Candy 			2
+GoldBar 		4
+YieldSign 		6
+Battery 		10
+CannedFood 		12
+Matchbox		7
+Pills 			3
+Tape 			12
+Bell 			28
+RubberDuck 		17
+DiyFlashbang 		21
+GiftBox 		32
+Flask 			25
+WhoopieCushion 		17
+ComedyMask 		19
+TragedyMask 		24
+7Ball 			13
+Dentures 		23
+PerfumeBottle 		44
+ChemicalJug 		24
+Brush 			37
+Hairdryer 		42
+SodaCanRed 		26
+Phone 			29
+StopSign 		7
+MagnifyingGlass 	29
+RobotToy 		19
+ToyCube 		17
+Candy 			17
+Toothpaste 		20
+FancyLamp 		29
+FancyCup 		27
+FancyPainting 		37
+----------------
+Scrap Spawn Range 28-38
