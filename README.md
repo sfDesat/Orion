@@ -27,7 +27,7 @@ Retrieving scraps within the church poses a multifaceted challenge, demanding me
 # 
 
 The internal name is '43 Orion' (for modded interiors).  
-_If you want to give feedback, you can use my [github page](https://github.com/sfDesat/Orion/issues) or [discord](https://discord.gg/nYcQFEpXfU) (Go to mod-releases and look for Orion / Aquatis)._
+_If you want to give feedback, you can use my [github page](https://github.com/sfDesat/Orion/issues) or join the [discord](https://discord.gg/nYcQFEpXfU)._ (mod-releases > Orion / Aquatis / Celest)
 
 **Check out my newest planet [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/) or download the [modpack](https://thunderstore.io/c/lethal-company/p/sfDesat/Explorations/).**
 #
