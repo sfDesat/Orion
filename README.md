@@ -1,3 +1,7 @@
+## NOTICE - final update
+I have personally decided to step down from modding Lethal Company. Maybe I will return someday, but that is not a promise. As for this mod:  
+**_Fork with credit is allowed. Feel free to extract it into Unity and learn from how I made this._**  
+
 # Orion Status Report
 ![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot%202.png "Screenshot%202")
 _The Church (photo taken by Drone-6)_
@@ -26,7 +30,7 @@ Retrieving scraps within the church poses a multifaceted challenge, demanding me
 
 # 
 
-_If you want to give feedback, you can use my [github page](https://github.com/sfDesat/Aquatis/issues) or join the [discord server](https://discord.gg/lcmod) and search for `sfDesat`._
+_If you want to give feedback, you can use my [github page](https://github.com/sfDesat/Orion/issues) or join the [discord server](https://discord.gg/lcmod) and search for `sfDesat`._
 
 **Check out my other planets [here](https://thunderstore.io/c/lethal-company/p/sfDesat/) or download my [modpacks](https://thunderstore.io/c/lethal-company/p/sfDesat/?section=modpacks).**
 #
