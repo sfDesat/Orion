@@ -1,5 +1,5 @@
 ### ⚠️ Platform notice ⚠️
-This mod is available on a [different platform](https://www.curseforge.com/lethal-company/mods/Orion). This platform will get priority over Thunderstore. This means that the Thunderstore version of this mod will receive less frequent updates. Thunderstore will remain supported, but wont be a priority.
+This mod is now available on a [different platform](https://www.curseforge.com/lethal-company/mods/Orion). This new platform will get update priority and receive betas. This means that the Thunderstore version of this mod will receive less frequent updates. Thunderstore will remain supported.
 
 # Orion Status Report 🏚️
 
